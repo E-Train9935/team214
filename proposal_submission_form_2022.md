@@ -12,7 +12,7 @@
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team214/blob/main/skin_cancer.jpeg"> 
 
-<img height="10%" width="80%" alt="hdma" src="[https://github.com/BigDataForSanDiego/team214/blob/main/skin_cancer.jpeg](https://github.com/BigDataForSanDiego/team214/blob/main/BodyHackathonMockup%20(1).jpg)"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team214/blob/00a7171244cfc4c2929038924f145c22946dbace/BodyHackathonMockup%20(1).jpg"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
